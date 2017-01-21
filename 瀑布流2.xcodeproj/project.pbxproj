@@ -178,6 +178,7 @@
 				TargetAttributes = {
 					BC5C1AA91BE8E23700AEE0CA = {
 						CreatedOnToolsVersion = 6.4;
+						DevelopmentTeam = 3UFAY7EAJX;
 					};
 					BC5C1AC21BE8E23800AEE0CA = {
 						CreatedOnToolsVersion = 6.4;
@@ -359,6 +360,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 3UFAY7EAJX;
 				INFOPLIST_FILE = "瀑布流2/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -369,6 +371,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 3UFAY7EAJX;
 				INFOPLIST_FILE = "瀑布流2/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -428,6 +431,7 @@
 				BC5C1ACF1BE8E23800AEE0CA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		BC5C1AD01BE8E23800AEE0CA /* Build configuration list for PBXNativeTarget "瀑布流2Tests" */ = {
 			isa = XCConfigurationList;
@@ -436,6 +440,7 @@
 				BC5C1AD21BE8E23800AEE0CA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

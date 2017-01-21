@@ -9,15 +9,11 @@
 #import <UIKit/UIKit.h>
 
 @interface CustomCollectionLayout : UICollectionViewLayout
-
-
 @property (nonatomic ,assign) NSInteger columCounts;
 @property (nonatomic ,assign) NSInteger spacingWith;
 @property (nonatomic ,assign) CGFloat fullWidth;
 @property (nonatomic ,strong) NSMutableArray *hightArray;
 @property (nonatomic ,strong) NSDictionary *dictonary;
 @property (nonatomic ,strong) NSMutableArray *celleYArray;
-
-
 
 @end
